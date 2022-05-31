@@ -1,6 +1,6 @@
 # ``ToDo``
 
-ToDo app build with SwiftUI, MVVM, and Combine
+ToDo app built with SwiftUI, MVVM, and Combine
 
 ## Features
 
